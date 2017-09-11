@@ -1,8 +1,8 @@
 #!/bin/bash
 
 params=""
-export AWS_ACCESS_KEY_ID="AKIAJNTAXSHZN5FXUDMQ"
-export AWS_SECRET_ACCESS_KEY="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"
+export AWS_ACCESS_KEY_ID="AKIAIFOIAZSTVZUT5F5Q"
+export AWS_SECRET_ACCESS_KEY="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"
 
 for arg; do
         params="$params $arg"
